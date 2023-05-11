@@ -43,9 +43,9 @@ python main.py hostIP username password
 5. If a set of new records are inserted using UI, then step 3 needs to be excuted again as well to populate the information of new record in auxiliary tables.
 ## Authors
 
-1. Charul Rathore [45% code, 45% report and presentation]  
-2. Durga Muralidharan [45% code, 45% report and presentation]
-3. Swathi MVS [10% code, 10% report and presentation]
+1. Charul Rathore [Contribution: 45% code, 45% report and presentation]  
+2. Durga Muralidharan [Contribution: 45% code, 45% report and presentation]
+3. Swathi MVS [Contribution: 10% code, 10% report and presentation]
 
 
 ## Acknowledgments
