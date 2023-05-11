@@ -45,7 +45,7 @@ python main.py hostIP username password
 
 1. Charul Rathore [45% code, 45% report and presentation]  
 2. Durga Muralidharan [45% code, 45% report and presentation]
-3. Swati SVM [10% code, 10% report and presentation]
+3. Swathi MVS [10% code, 10% report and presentation]
 
 
 ## Acknowledgments
