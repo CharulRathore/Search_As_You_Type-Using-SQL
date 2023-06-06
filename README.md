@@ -41,12 +41,6 @@ For example, python main.py --populateTables localhost root Mydata@123
 python main.py hostIP username password
 ```
 5. If a set of new records are inserted using UI, then step 3 needs to be excuted again as well to populate the information of new record in auxiliary tables.
-## Authors
-
-1. Charul Rathore [Contribution: 45% code, 35% report and presentation]  
-2. Durga Muralidharan [Contribution: 45% code, 35% report and presentation]
-3. Swathi MVS [Contribution: 10% code, 30% report and presentation]
-
 
 ## Acknowledgments
 
